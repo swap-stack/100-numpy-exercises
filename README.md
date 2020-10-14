@@ -1,3 +1,4 @@
+Collection of my solutions for the 100 numpy exercises (by rougier)
 
 100 numpy exercises
 
